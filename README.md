@@ -21,7 +21,6 @@ To use the application, visit Movies Entertainment App and log in using your Goo
 🚀 Technologies Used
 This application was created using create-t3-app and built using the following technologies:
 
-
 Next.js
 tRPC
 Prisma
